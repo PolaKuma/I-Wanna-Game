@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/i wanna learn programming.unity
+  isLoaded: 1
+  isActive: 1

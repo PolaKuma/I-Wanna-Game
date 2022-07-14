@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: e4f1d3b117b4f9847a12e098605a9dd0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - I Wanna Be The Guy - Killers 1_0
+    21300002: PC Computer - I Wanna Be The Guy - Killers 1_1
+    21300004: PC Computer - I Wanna Be The Guy - Killers 1_2
+    21300006: PC Computer - I Wanna Be The Guy - Killers 1_3
+    21300008: PC Computer - I Wanna Be The Guy - Killers 1_4
+    21300010: PC Computer - I Wanna Be The Guy - Killers 1_5
+    21300012: PC Computer - I Wanna Be The Guy - Killers 1_6
+    21300014: PC Computer - I Wanna Be The Guy - Killers 1_7
+    21300016: PC Computer - I Wanna Be The Guy - Killers 1_8
+    21300018: PC Computer - I Wanna Be The Guy - Killers 1_9
+    21300020: PC Computer - I Wanna Be The Guy - Killers 1_10
+    21300022: PC Computer - I Wanna Be The Guy - Killers 1_11
+    21300024: PC Computer - I Wanna Be The Guy - Killers 1_12
+    21300026: PC Computer - I Wanna Be The Guy - Killers 1_13
+    21300028: PC Computer - I Wanna Be The Guy - Killers 1_14
+    21300030: PC Computer - I Wanna Be The Guy - Killers 1_15
+    21300032: PC Computer - I Wanna Be The Guy - Killers 1_16
+    21300034: PC Computer - I Wanna Be The Guy - Killers 1_17
+    21300036: PC Computer - I Wanna Be The Guy - Killers 1_18
+    21300038: PC Computer - I Wanna Be The Guy - Killers 1_19
+    21300040: PC Computer - I Wanna Be The Guy - Killers 1_20
+    21300042: PC Computer - I Wanna Be The Guy - Killers 1_21
+    21300044: PC Computer - I Wanna Be The Guy - Killers 1_22
+    21300046: PC Computer - I Wanna Be The Guy - Killers 1_23
+    21300048: PC Computer - I Wanna Be The Guy - Killers 1_24
+    21300050: PC Computer - I Wanna Be The Guy - Killers 1_25
+    21300052: PC Computer - I Wanna Be The Guy - Killers 1_26
+    21300054: PC Computer - I Wanna Be The Guy - Killers 1_27
+    21300056: PC Computer - I Wanna Be The Guy - Killers 1_28
+    21300058: PC Computer - I Wanna Be The Guy - Killers 1_29
+    21300060: PC Computer - I Wanna Be The Guy - Killers 1_30
+    21300062: PC Computer - I Wanna Be The Guy - Killers 1_31
+    21300064: PC Computer - I Wanna Be The Guy - Killers 1_32
+    21300066: PC Computer - I Wanna Be The Guy - Killers 1_33
+    21300068: PC Computer - I Wanna Be The Guy - Killers 1_34
+    21300070: PC Computer - I Wanna Be The Guy - Killers 1_35
+    21300072: PC Computer - I Wanna Be The Guy - Killers 1_36
+    21300074: PC Computer - I Wanna Be The Guy - Killers 1_37
+    21300076: PC Computer - I Wanna Be The Guy - Killers 1_38
+    21300078: PC Computer - I Wanna Be The Guy - Killers 1_39
+    21300080: PC Computer - I Wanna Be The Guy - Killers 1_40
+    21300082: PC Computer - I Wanna Be The Guy - Killers 1_41
+    21300084: PC Computer - I Wanna Be The Guy - Killers 1_42
+    21300086: PC Computer - I Wanna Be The Guy - Killers 1_43
+    21300088: PC Computer - I Wanna Be The Guy - Killers 1_44
+    21300090: PC Computer - I Wanna Be The Guy - Killers 1_45
+    21300092: PC Computer - I Wanna Be The Guy - Killers 1_46
+    21300094: PC Computer - I Wanna Be The Guy - Killers 1_47
+    21300096: PC Computer - I Wanna Be The Guy - Killers 1_48
+    21300098: PC Computer - I Wanna Be The Guy - Killers 1_49
+    21300100: PC Computer - I Wanna Be The Guy - Killers 1_50
+    21300102: PC Computer - I Wanna Be The Guy - Killers 1_51
+    21300104: PC Computer - I Wanna Be The Guy - Killers 1_52
+    21300106: PC Computer - I Wanna Be The Guy - Killers 1_53
+    21300108: PC Computer - I Wanna Be The Guy - Killers 1_54
+    21300110: PC Computer - I Wanna Be The Guy - Killers 1_55
+    21300112: PC Computer - I Wanna Be The Guy - Killers 1_56
+    21300114: PC Computer - I Wanna Be The Guy - Killers 1_57
+    21300116: PC Computer - I Wanna Be The Guy - Killers 1_58
+    21300118: PC Computer - I Wanna Be The Guy - Killers 1_59
+    21300120: PC Computer - I Wanna Be The Guy - Killers 1_60
+    21300122: PC Computer - I Wanna Be The Guy - Killers 1_61
+    21300124: PC Computer - I Wanna Be The Guy - Killers 1_62
+    21300126: PC Computer - I Wanna Be The Guy - Killers 1_63
+    21300128: PC Computer - I Wanna Be The Guy - Killers 1_64
+    21300130: PC Computer - I Wanna Be The Guy - Killers 1_65
+    21300132: PC Computer - I Wanna Be The Guy - Killers 1_66
+    21300134: PC Computer - I Wanna Be The Guy - Killers 1_67
+    21300136: PC Computer - I Wanna Be The Guy - Killers 1_68
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 234
+        width: 280
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346a00681ab6aa43be592cb0166979c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 370
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbea1d244087cf43b9dd981de0a574e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 376
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a192ac24d557c64ea226bca253357ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 344
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018185de161bad4cbbc6444e72a900a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 338
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a0950216fec146aa0bd5808187717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 227
+        width: 259
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8d308433c47f4f8c6a9b9814883a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 330
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146ea6d397e1cf49b9c85d41523371e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 343
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964744f1b23edc94494d1799db16d472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 284
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413cad785be90734cb0a0469cd04270d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 284
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0c3acb6c60ad48a611b4a11de9380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 282
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2f5f8e20e06540815b9e694e24bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 282
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425da61c722879498a425405f35e57f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 281
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3662e8ab407404785cee39f63b79c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 294
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1498cde6d67f047a2d69216d943cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 294
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103337dd98397c648856c46530fc1458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 294
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e959b7847aef8448ea3ca331bb01bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_16
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 294
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc150ac908569c847b5ec7bcfeb04ae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 294
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9440993b270438428162a9f98a641e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_18
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 294
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9b50aac6cef2744b4d328968d3c9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 265
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82ef28cfc4d9e47b4b2274d7fa80cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 284
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da9c1a5e43f814b8ff6f8fbf92399e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 284
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e2d7515b1ca14d9e6cbdd49f6fb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 284
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c3f0e6a6c8244a86e31b8fd8798ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 277
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d5f26635341a46bf2aac548062fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_24
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 279
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c048ee25e071342bb0f3d818c717d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_25
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 279
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cfb4025a61b1740910da8a045f3fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 220
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62731020d00a08a438cb52ac520688d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156e035aeb4e3c4bb164904c8db7d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 189
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d657be7a2060641acf83651e3885ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 190
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2f84a43b639647a5e8c9831745857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 190
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5ca1030695c346b6f4f92ac2f93bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 192
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a5b6cd86200e479784dca884487b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 192
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dfb55ec93208640b6d49149201af5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_33
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 227
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568e00bf3f08a443a56836d00c9448b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_34
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 225
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087e3a4eca7382418ebc14b927b3994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 225
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ab5b8835e91d4796d9762436d74cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_36
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 225
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637fce5b41b9674281d76831349dc5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_37
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 225
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9b00c477334f45b504724a8b2db56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_38
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 227
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadbc9af959ed284eb35398cce9b825d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_39
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87a0a9a28f87e45a3b06d785bbe380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_40
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1dea1f44b78874f845263f0b8d12fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 225
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9be6b5926e5b478487356dbec202f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_42
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 227
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398c2dbf861af84ca73e8539d7749ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_43
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86151b1b803a4d744b3cde5e51f99f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 212
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a225e1eed0641b4e90253e8f6f6fa24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 212
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18a318b3cbf874f87f2d1fb880e00b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 212
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c7cf7fa7c04244aa9d379c452b53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1408e15b7f18a649a0cdc81b1ee45e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 174
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efc32aed44c26438a393108b9824e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5d978017da4746af64bb13778de25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 189
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b62c540e3be24eb6901148c4da237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 187
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76828d45a473047aafb0dcbc096cdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 185
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84d00404565484995a60b0ab42c0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 27
+        width: 259
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c3596a8bb9d14aabf9cd546c2560d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 26
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9d7c731c88414680c27bd5788b073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a6b2bd21b22c40b63cd1d588c9c7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d71c2fd1e1f844dbfc65d232ec8648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0a50b923ed8c488ca8824198e7fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 65
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561565c3da5e024f9603c7f743ea748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 65
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b686ba5ce11ba14188b917562f2b812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 65
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248cbcf3c9a905648a9d27b5a7d9b501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_61
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 65
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96985046523d642bf00fa2d6102d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_62
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 65
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ca2df2d83bfc4e8f07e5031eeef73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 41
+        width: 756
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0843584b6203a3f4fb89544740cc2344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dcde5a2c08d1543bb1fdb749a6465d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9200f1f4e5f8f64b8498e9016878bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_66
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44fca37801a3243b2d4858e873745e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 7
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b24a891c0205949b80c0ec5c658229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - I Wanna Be The Guy - Killers 1_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da80c1929e817e45a3b602ec44a0697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9e4f2f87aca4cc40bb8de82937944d7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
